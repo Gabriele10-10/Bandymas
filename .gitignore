@@ -1,3 +1,4 @@
-*.log
-temp/
-backup/
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
