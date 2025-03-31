@@ -1,0 +1,2 @@
+echo " Labas, mano vardas Gabrielė" > labas.txt
+git add labas.txt
