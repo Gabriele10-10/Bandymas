@@ -1,0 +1,4 @@
+echo " Labas, Mano Vardas" > labas.txt
+git add labas.txt
+git commit -m "Pridėta pirmoji versija"
+git push origin main
